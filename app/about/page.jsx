@@ -1,0 +1,1 @@
+export default function Page(){return(<div className='max-w-3xl mx-auto px-4 py-10'><h1 className='text-2xl font-semibold'>About</h1><p className='mt-3 text-gray-700'>A curated, human-edited directory of tiffin services in Mumbai, Pune, and Bengaluru. Built with Next.js and Tailwind.</p></div>);}

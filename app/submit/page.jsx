@@ -1,0 +1,1 @@
+export default function Page(){return(<div className='max-w-3xl mx-auto px-4 py-10'><h1 className='text-2xl font-semibold'>Submit Listing</h1><p className='mt-3 text-gray-700'>Vendor submission form will be added in Phase 2.</p></div>);}
